@@ -1,0 +1,39 @@
+{
+  "generator": "repository-static-triage",
+  "version": "1.0",
+  "repository": "vikasdotvivek/arduinobuttonscore",
+  "revision": "8d7275882404c8eedbe454ffc98d9ca77b06efdf",
+  "tracked_files": 5,
+  "scanned": [
+    {
+      "path": "scoreboard_lcd/scoreboard_lcd.ino",
+      "lines": 24,
+      "bytes": 494
+    },
+    {
+      "path": "scoreboard_serial/scoreboard_serial.ino",
+      "lines": 24,
+      "bytes": 494
+    }
+  ],
+  "skipped": [
+    {
+      "path": ".github/workflows/code-improvement-review.yml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": ".gitignore",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "README.md",
+      "reason": "non-source format; content not audited"
+    }
+  ],
+  "manifests": [],
+  "conventional_test_paths": [],
+  "findings": [],
+  "total_findings": 0,
+  "findings_omitted": 0,
+  "execution": "No repository code, tests, builds or hardware were executed."
+}
